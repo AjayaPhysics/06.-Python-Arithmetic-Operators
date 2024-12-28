@@ -1,0 +1,5 @@
+# Floor division
+a = 10
+b = 3
+result = a // b
+print(f"Floor Division: {a} // {b} = {result}")
