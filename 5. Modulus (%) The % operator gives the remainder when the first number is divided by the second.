@@ -1,0 +1,5 @@
+# Modulus operation
+a = 10
+b = 3
+result = a % b
+print(f"Modulus: {a} % {b} = {result}")
