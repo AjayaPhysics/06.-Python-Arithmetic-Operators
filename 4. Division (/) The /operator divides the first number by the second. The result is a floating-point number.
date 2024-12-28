@@ -1,0 +1,5 @@
+# Division of two numbers
+a = 10
+b = 5
+result = a / b
+print(f"Division: {a} / {b} = {result}")
